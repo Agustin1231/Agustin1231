@@ -4,9 +4,9 @@
 
 ### AI Engineer · Automation · Self-hosted systems
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-agustin.agustinynatalia.site-0EA5E9?style=for-the-badge&logo=safari&logoColor=white)](https://agustin.agustinynatalia.site/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=safari&logoColor=white)](https://agustin.agustinynatalia.site/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-agustin--peralta--guarin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-peralta-guarin/)
-[![Email](https://img.shields.io/badge/Email-apg%40urpeailab.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apg@urpeailab.com)
+[![Email](https://img.shields.io/badge/Email-aperaltaguarin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aperaltaguarin@gmail.com)
 
 </div>
 
