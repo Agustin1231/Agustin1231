@@ -43,11 +43,8 @@ Diseño y opero **agentes LLM**, **pipelines de automatización** y **sistemas s
 
 | Proyecto | Qué hace | Stack |
 |---|---|---|
-| **Monica Designer** ([live](https://desing.urpeailab.com)) | API SaaS: convierte un business plan en brandbook completo (logo 4K + PDF + 4 flyers + membrete) en ~7 min usando IA generativa | FastAPI · Gemini · Docker · Pango/Cairo |
 | **Rocky** | Asistente multimodal en Telegram que gestiona infra Coolify, ejecuta tareas detached, registra finanzas con OCR, despliega servicios self-hosted | Claude · MCP · TaskFlow · Python |
-| **Mireau Lab Pipeline** | 5 workflows n8n con arquitectura **Long-to-Wide append-only** sobre BigQuery — evita los upserts frágiles y centraliza eventos en una sola tabla colapsada en vista | n8n · BigQuery · Gemini (PDF parser) |
-| **Personal Finance Webhook** | Sistema autónomo en VPS: webhook + Apple Shortcuts captura cada uso de tarjeta sin contacto, clasificación AI por cron, reportes PDF mensuales | Python · aiohttp · SQLite · Cron · TinyTeX |
-| **iso_secure** | Dashboard ISO 27001 para gobierno de seguridad (proyecto universitario) | Next.js · PostgreSQL |
+| **iso_secure** | Dashboard ISO 27001 para gobierno de seguridad (proyecto universitario) | Next.js · PostgreSQL | Next.js · PostgreSQL |
 
 
 ---
