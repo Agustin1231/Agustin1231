@@ -49,6 +49,14 @@ Diseño y opero **agentes LLM**, **pipelines de automatización** y **sistemas s
 
 ---
 
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Agustin1231/Agustin1231/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 ### Bogotá, Colombia · Open to remote opportunities
 
 > *Construyo sistemas que automatizan, razonan y escalan — desde la arquitectura hasta la puesta en producción.*
