@@ -5,8 +5,8 @@
 ### AI Engineer · Automation · Self-hosted systems
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=safari&logoColor=white)](https://agustin.agustinynatalia.site/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-agustin--peralta--guarin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-peralta-guarin/)
-[![Email](https://img.shields.io/badge/Email-aperaltaguarin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aperaltaguarin@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-peralta-guarin/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aperaltaguarin@gmail.com)
 
 </div>
 
@@ -49,17 +49,6 @@ Diseño y opero **agentes LLM**, **pipelines de automatización** y **sistemas s
 | **Personal Finance Webhook** | Sistema autónomo en VPS: webhook + Apple Shortcuts captura cada uso de tarjeta sin contacto, clasificación AI por cron, reportes PDF mensuales | Python · aiohttp · SQLite · Cron · TinyTeX |
 | **iso_secure** | Dashboard ISO 27001 para gobierno de seguridad (proyecto universitario) | Next.js · PostgreSQL |
 
----
-
-### Stats
-
-<div align="center">
-
-![Agustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agustin1231&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agustin1231&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
