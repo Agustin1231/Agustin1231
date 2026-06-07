@@ -43,10 +43,11 @@ Diseño y opero **agentes LLM**, **pipelines de automatización** y **sistemas s
 
 | Proyecto | Qué hace | Stack |
 |---|---|---|
-| **Rocky** | Asistente multimodal en Telegram que gestiona infra Coolify, ejecuta tareas detached, registra finanzas con OCR, despliega servicios self-hosted | Claude · MCP · TaskFlow · Python |
-| **[iso_secure](https://github.com/Agustin1231/iso_secure)** | Dashboard ISO 27001 para gobierno de seguridad (proyecto universitario) | Next.js · PostgreSQL | Next.js · PostgreSQL |
-
-
+| **Rocky** *(ecosistema)* | Asistente multimodal en Telegram que gestiona infra Coolify, ejecuta tareas detached, registra finanzas con OCR. Compuesto por [rocky-bridge](https://github.com/Agustin1231/rocky-bridge) (API queue), [rocky-call](https://github.com/Agustin1231/rocky-call) (LiveKit voice), [agent-kit](https://github.com/Agustin1231/agent-kit) (tools/schemas) y [bridge-chat-log](https://github.com/Agustin1231/bridge-chat-log) (viewer web). | Claude · MCP · Python · FastAPI |
+| **[iso_secure](https://github.com/Agustin1231/iso_secure)** | Dashboard ISO 27001 para gobierno de seguridad de la información — proyecto universitario completo con auth, RBAC y reportería. | Next.js · PostgreSQL · TypeScript |
+| **[pulso](https://github.com/Agustin1231/pulso)** | PWA de salud cardiovascular potenciada por IA. Monitorea ritmo cardíaco y genera recomendaciones personalizadas. | PWA · IA · TypeScript |
+| **[portfolio](https://github.com/Agustin1231/portfolio)** | Sitio web personal — [agustin.agustinynatalia.site](https://agustin.agustinynatalia.site/). Multi-idioma, modo oscuro, render dinámico de proyectos. | HTML · CSS · JS |
+| **[server-dashboard](https://github.com/Agustin1231/server-dashboard)** | Dashboard en tiempo real con métricas del servidor (CPU, RAM, disco, procesos). Listo para Docker/Coolify. | FastAPI · psutil · Docker |
 ---
 
 <div align="center">
