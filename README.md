@@ -44,7 +44,7 @@ Diseño y opero **agentes LLM**, **pipelines de automatización** y **sistemas s
 | Proyecto | Qué hace | Stack |
 |---|---|---|
 | **Rocky** | Asistente multimodal en Telegram que gestiona infra Coolify, ejecuta tareas detached, registra finanzas con OCR, despliega servicios self-hosted | Claude · MCP · TaskFlow · Python |
-| **iso_secure** | Dashboard ISO 27001 para gobierno de seguridad (proyecto universitario) | Next.js · PostgreSQL | Next.js · PostgreSQL |
+| **[iso_secure](https://github.com/Agustin1231/iso_secure)** | Dashboard ISO 27001 para gobierno de seguridad (proyecto universitario) | Next.js · PostgreSQL | Next.js · PostgreSQL |
 
 
 ---
