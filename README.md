@@ -8,6 +8,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-peralta-guarin/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aperaltaguarin@gmail.com)
 
+**330+** procesos automatizados · **90.000+** ejecuciones · **10.000+** horas de trabajo manual eliminadas · **~99%** uptime
+
 </div>
 
 ---
@@ -49,6 +51,18 @@ Diseño y opero **agentes LLM**, **pipelines de automatización** y **sistemas s
 | **[pulso](https://github.com/Agustin1231/pulso)** | PWA de salud cardiovascular potenciada por IA. Monitorea ritmo cardíaco y genera recomendaciones personalizadas. | PWA · IA · TypeScript |
 | **[portfolio](https://github.com/Agustin1231/portfolio)** | Sitio web personal — [agustin.agustinynatalia.site](https://agustin.agustinynatalia.site/). Multi-idioma, modo oscuro, render dinámico de proyectos. | HTML · CSS · JS |
 | **[server-dashboard](https://github.com/Agustin1231/server-dashboard)** | Dashboard en tiempo real con métricas del servidor (CPU, RAM, disco, procesos). Listo para Docker/Coolify. | FastAPI · psutil · Docker |
+
+---
+
+### Guías
+
+Escribo guías prácticas sobre automatización, IA y self-hosting en mi [portafolio](https://agustin.agustinynatalia.site/#guias):
+
+- [Cómo automatizar los procesos de tu empresa con IA](https://agustin.agustinynatalia.site/guias/senales-proceso-automatizar.html)
+- [Los mejores buscadores con IA en 2026: Perplexity vs ChatGPT vs Google](https://agustin.agustinynatalia.site/guias/buscadores-ia-cual-elegir.html)
+- [5 herramientas open source gratis para reemplazar tus suscripciones](https://agustin.agustinynatalia.site/guias/self-hosting-ahorro.html)
+- [Cómo conecté un agente de IA a mi base de conocimiento](https://agustin.agustinynatalia.site/guias/sistema-conocimiento-outline.html)
+
 ---
 
 <div align="center">
