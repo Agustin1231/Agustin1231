@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-peralta-guarin/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aperaltaguarin@gmail.com)
 
-**330+** procesos automatizados · **90.000+** ejecuciones · **10.000+** horas de trabajo manual eliminadas · **~99%** uptime
+**330+** procesos automatizados · **113.000+** ejecuciones · **12.000+** horas de trabajo manual eliminadas · **~99%** uptime
 
 </div>
 
