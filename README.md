@@ -8,7 +8,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-peralta-guarin/)
 [![Contrátame en Upwork](https://img.shields.io/badge/Contr%C3%A1tame%20en%20Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/agustinperalta)
 
-**340+** procesos automatizados · **190.000+** ejecuciones · **20.000+** horas de trabajo manual eliminadas · **~99%** uptime
+Servicios con precio fijo en Upwork → [Automatización con n8n](https://www.upwork.com/services/product/development-it-an-n8n-workflow-automation-for-your-crm-forms-email-and-sheets-2104901857369884325) · [Agente de IA para WhatsApp](https://www.upwork.com/services/product/development-it-an-ai-whatsapp-agent-for-customer-service-with-the-official-cloud-api-2104903909913353811) · [Auditoría de procesos](https://www.upwork.com/services/product/consulting-hr-a-business-process-automation-audit-with-a-prioritized-action-plan-2104904529895557158)
+
+**340+** procesos automatizados · **241.000+** ejecuciones · **24.000+** horas de trabajo manual eliminadas · **~99%** uptime
 
 [Ver las métricas en vivo](https://agustin.agustinynatalia.site/metricas.html)
 
