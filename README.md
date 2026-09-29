@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=safari&logoColor=white)](https://agustin.agustinynatalia.site/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-peralta-guarin/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aperaltaguarin@gmail.com)
+[![Contrátame en Upwork](https://img.shields.io/badge/Contr%C3%A1tame%20en%20Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/agustinperalta)
 
 **340+** procesos automatizados · **190.000+** ejecuciones · **20.000+** horas de trabajo manual eliminadas · **~99%** uptime
 
