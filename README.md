@@ -12,7 +12,7 @@ Servicios con precio fijo en Upwork → [Automatización con n8n](https://www.up
 
 **340+** procesos automatizados · **241.000+** ejecuciones · **24.000+** horas de trabajo manual eliminadas · **~99%** uptime
 
-[Ver las métricas en vivo](https://agustin.agustinynatalia.site/metricas.html)
+[Ver las métricas en vivo](https://agustin.agustinynatalia.site/metricas)
 
 </div>
 
@@ -53,12 +53,12 @@ Trabajo sobre repositorios privados, así que estos casos van documentados y ano
 
 | Caso | Resultado |
 |---|---|
-| [Agente de IA que atiende y cobra por WhatsApp](https://agustin.agustinynatalia.site/proyecto.html?id=agente-de-ia-que-atiende-y-cobra-por-whatsapp) | Atención conversacional y secuencias de recordatorio de pago que se apagan solas cuando el cliente responde |
-| [Panel de auditoría para un agente de IA](https://agustin.agustinynatalia.site/proyecto.html?id=panel-de-auditoria-para-un-agente-de-ia) | Observabilidad por conversación, reglas de evaluación y trazabilidad de cada respuesta del agente |
-| [De plataforma por suscripción a infraestructura propia](https://agustin.agustinynatalia.site/proyecto.html?id=de-plataforma-por-suscripcion-a-infraestructura-propia) | 91% menos de costo mensual migrando el mismo flujo a infraestructura propia |
-| [Plataforma de orientación vocacional con IA](https://agustin.agustinynatalia.site/proyecto.html?id=plataforma-de-orientacion-vocacional-con-ia) | Test vocacional que perfila estudiantes y los direcciona a programas académicos |
+| [Agente de IA que atiende y cobra por WhatsApp](https://agustin.agustinynatalia.site/proyectos/agente-de-ia-que-atiende-y-cobra-por-whatsapp.html) | Atención conversacional y secuencias de recordatorio de pago que se apagan solas cuando el cliente responde |
+| [Panel de auditoría para un agente de IA](https://agustin.agustinynatalia.site/proyectos/panel-de-auditoria-para-un-agente-de-ia.html) | Observabilidad por conversación, reglas de evaluación y trazabilidad de cada respuesta del agente |
+| [De plataforma por suscripción a infraestructura propia](https://agustin.agustinynatalia.site/proyectos/de-plataforma-por-suscripcion-a-infraestructura-propia.html) | 91% menos de costo mensual migrando el mismo flujo a infraestructura propia |
+| [Plataforma de orientación vocacional con IA](https://agustin.agustinynatalia.site/proyectos/plataforma-de-orientacion-vocacional-con-ia.html) | Test vocacional que perfila estudiantes y los direcciona a programas académicos |
 
-Los [19 casos completos](https://agustin.agustinynatalia.site/proyectos.html) están en el portafolio.
+Los [32 casos completos](https://agustin.agustinynatalia.site/proyectos) están en el portafolio.
 
 ---
 
@@ -87,8 +87,12 @@ Programa completo de n8n Academy, con credenciales verificables por URL.
 
 ### Guías
 
-Escribo guías prácticas sobre automatización, IA y self-hosting en mi [portafolio](https://agustin.agustinynatalia.site/#guias).
+Escribo guías prácticas sobre automatización, IA y self-hosting en mi portafolio. Están [todas aquí](https://agustin.agustinynatalia.site/guias/).
 
+- [Arnés o modelo más capaz, qué le conviene de verdad a tu empresa](https://agustin.agustinynatalia.site/guias/arnes-o-modelo-mas-capaz.html)
+- [Las alertas que nadie lee, o por qué avisar de cada falla hace que no veas ninguna](https://agustin.agustinynatalia.site/guias/las-alertas-que-nadie-lee.html)
+- [Darle acceso a tus datos a un agente de IA sin regalarle la casa](https://agustin.agustinynatalia.site/guias/darle-acceso-a-tus-datos-a-un-agente-de-ia.html)
+- [De USD 584 a USD 54 al mes, el desglose completo de un caso real](https://agustin.agustinynatalia.site/guias/de-584-a-54-dolares-caso-real.html)
 - [Agente de IA para WhatsApp, lo que nadie te cuenta antes de conectarlo](https://agustin.agustinynatalia.site/guias/agente-ia-whatsapp-que-necesitas.html)
 - [Cuánto cuesta de verdad tener un agente de IA corriendo](https://agustin.agustinynatalia.site/guias/cuanto-cuesta-un-agente-de-ia.html)
 - [Cómo llevar un agente de IA de la demo a producción](https://agustin.agustinynatalia.site/guias/agente-ia-demo-a-produccion.html)
